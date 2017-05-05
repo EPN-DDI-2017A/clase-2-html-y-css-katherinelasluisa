@@ -1,0 +1,87 @@
+.contenedor{
+	width: 800px;
+	margin: 0 auto;
+	
+}
+
+.titulo{
+	display: flex;
+	border-bottom: 2px solid #BCBBBB;
+	margin-left: auto;
+	margin-right: auto;
+	height: 110px;
+}
+
+h1{
+	font-family:Lato, sans-serif;
+    font-weight: 100;
+    color:#452415;
+    font-size: 35px;
+    margin: 0 auto;
+    text-align: right;
+    padding-top: 28px;
+    padding-left: 380px;
+}
+.subtitulo{
+	font-family: Lato, sans-serif;
+    color:#696969;
+    font-size: 15px;
+    text-align: right;
+    font-weight: 100;
+    margin-top: 5px;
+}
+.imagen{
+	margin-bottom: 0px;
+    width: 120px; 
+}
+
+.simbolo{
+	margin-top: 25px;
+    width: 804px; 
+}
+h2{
+	color:#BCBBBB;
+	font-size: 30px;
+	font-family: Garamond;
+}
+.appify{
+	margin-top: 5px;
+    width: 250px; 
+    margin-left: -8px;
+}
+.sunflower{
+	margin-top: 5px;
+    width: 250px; 
+}
+.bokeh{
+	margin-top: 5px;
+    width: 250px;
+    margin-right: -12px;
+}
+.tabla{
+    margin-top: -35px;
+    width: 800px;
+    border-spacing: 12px;
+}
+p{
+    font-family: "Arial", serif;
+    color:lightgray;
+    font-size: 30px;
+    padding-left: 20px;
+}
+td{
+    font-family: "Arial", serif;
+    color:lightgray;
+    text-align: center;
+    margin-top: -10px;
+}
+.lineas{
+    font-family: "Tahoma";
+    color:#696969;
+    font-size: 28px;
+}
+.url{
+	margin-top:4px;
+    font-size: 11px;
+    color:#696969;
+}

@@ -1,0 +1,113 @@
+.contenedor{
+	width: 804px;
+	margin: 0 auto;
+}
+	
+.titulo{
+	display: flex;
+	border-bottom: 4px solid #D0C4AB;
+	margin-left: auto;
+	margin-right: auto;
+	height: 110px;
+}
+
+h1{
+	font-family:Lato, sans-serif;
+    letter-spacing:4px;
+    font-weight: 100;
+    color:#452415;
+    font-size: 35px;
+    margin: 0 auto;
+    text-align: right;
+    padding-top: 28px;
+    padding-left: 380px;
+}
+.centro{
+    margin: 18px auto;
+    width: 805px;
+    height: 920px;
+    background-color: #131A2D;
+}
+.subtitulo{
+	font-family: Lato, sans-serif;
+    color:#696969;
+    font-size: 15px;
+    text-align: right;
+    font-weight: 100;
+    margin-top: 5px;
+}
+.imagen{
+	margin-bottom: 0px;
+    width: 120px; 
+}
+
+.flash{
+	margin-top: 25px;
+    width: 804px; 
+}
+
+h2{
+    margin-left: 30px;
+    color:#D0C4AB;
+    font-size: 30px;
+    font-family: Garamond;
+}
+.appify{
+    font-family: "Tahoma";
+    color:#D0C4AB;
+    font-size: 20px;
+    background-color: #D0C4AB;
+    width: 360px; 
+    height: 150px;
+}
+
+.sunflower{
+    font-family: "Tahoma";
+    color:#D0C4AB;
+    font-size: 20px;
+    background-color: #D0C4AB;
+    width: 360px; 
+    height: 150px;
+}
+
+.bokeh{
+    font-family: "Tahoma";
+    color:#D0C4AB;
+    font-size: 20px;
+    background-color: #D0C4AB;
+    width: 360px; 
+    height: 150px; 
+}
+
+.tabla2{
+    margin-top: -20px;
+    width: 804px;
+    border-spacing: 20px;
+}
+p{
+    font-family: "Arial", serif;
+    color:#D0C4AB;
+    font-size: 30px;
+    padding-left: 20px;
+}
+td{
+    font-family: "Arial", serif;
+    color:#D0C4AB;
+    text-align: center;
+    margin-top: 10px;
+}
+.lineas{
+    font-family: "Tahoma";
+    color:#D0C4AB;
+    font-size: 20px;
+    text-align: center;
+
+}
+.url{
+    font-family: "Tahoma";
+    margin-top: -4px;
+    font-size: 11px;
+    color:#696969;
+    text-align: center;
+    font-weight: 200;
+}

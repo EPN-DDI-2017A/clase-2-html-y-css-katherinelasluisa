@@ -1,0 +1,36 @@
+/**{
+	margin: 0px;
+	padding: 0px;
+}*/
+
+.contenedor{
+	margin: 100px auto;
+	width: 945px;
+    height: 960px;
+    background-color: #E8E8E7;
+}
+.imagen{
+	margin-bottom: 0px;
+	display: flex;
+}
+.linea{
+	width: 945px;
+    height: 13px;/**la altura**/
+    background-color: #8BCC98;
+    margin:20px auto;
+}
+.mitad{
+	padding: 10px;
+	margin: 18px auto;
+	width: 400px;
+    height: 500px;
+    background-color: white;
+   
+}
+.h3{
+	color: #756C68;
+}
+.texto p{
+	text-align: justify;;
+	text-indent: 50px;
+}
